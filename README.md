@@ -9,13 +9,4 @@ Hi there, I am Guru Pravallika
 🎈 Fun Fact: I love singing.
 
 Tech Stack I am Familiar With:
-HTML5 CSS3 Bootstrap C Python JavaScript C++ React NodeJS Git GitHub WordPress MongoDB
-
-
-📈 GitHub Stats
-
-
-
-
-Connect with me
-Gmail LinkedIn GitHub
+HTML CSS Javascript Flutter
