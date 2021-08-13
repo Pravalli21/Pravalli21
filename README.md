@@ -42,6 +42,7 @@
   <a href="https://twitter.com/GDuttaluru/status/1331564070244212736?s=08">
   </a>
  <a href="https://thinklotsart.wordpress.com">
+  </a>
 </p>
 
 
