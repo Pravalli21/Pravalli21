@@ -35,16 +35,6 @@
 - 📫 How to reach me: Email - dgurupravallika@gmail.com 
 - 😄 Pronouns: She/her
 
-<h2 align="center">Reach out to me on</h2>
- <p align="center"><br/>
-   <a href="https://linkedin.com/in/gurupravallikaofficial">
-  </a>
-  <a href="https://twitter.com/GDuttaluru/status/1331564070244212736?s=08">
-  </a>
- <a href="https://thinklotsart.wordpress.com">
-  </a>
-</p>
-
 
 
 
