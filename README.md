@@ -1,6 +1,6 @@
  <h2>Hi there 👋,I am Guru Pravallika<img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"> 
-🏫 I am a second year Undergrad persuing B.Tech in Computer Science at RMD ENGINEERING COLLEGE.
+🏫 I am a third year Undergrad persuing B.Tech in Computer Science at RMD ENGINEERING COLLEGE.
 🍀 I am currently practising Phthon,C,C++,Java.
 ❤ I love full stack development. Currently I am Mentoring friends who stuck in coding.
 🎯 2021 Goal is to become full stack developer.
@@ -37,6 +37,7 @@
 ### Connect with me
 <a href="mailto:dgurupravallika@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/gurupravallikaofficial"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ"><img alt="Youtube" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
                                                
