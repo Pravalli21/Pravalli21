@@ -1,4 +1,5 @@
-### Hi there 👋
+ <h2>Hi there 👋<img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+ <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"> 
 🏫 I am a second year Undergrad persuing B.Tech in Computer Science at RMD ENGINEERING COLLEGE.
 🍀 I am currently practising Phthon,C,C++,Java.
 ❤ I love full stack development. Currently I am Mentoring friends who stuck in coding.
