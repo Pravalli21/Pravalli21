@@ -6,6 +6,7 @@
 🎯 2021 Goal is to become full stack developer.
 🎈 Fun Fact: I love singing.
 <br>
+<br>
 
 <p align="center">
   <a href="https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ?sub_confirmation=1">
@@ -16,6 +17,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Pravalli21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<br>
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
