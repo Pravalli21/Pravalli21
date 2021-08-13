@@ -10,15 +10,15 @@
 <h2 align="center">Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=Cpp&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vue%20-%2300D9FF.svg?&style=for-the-badge&logo=vue&logoColor=orange" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%20-%231572B6.svg?&style=for-the-badge&logo=Cpp&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Html%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Css%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript%20-%2300D9FF.svg?&style=for-the-badge&logo=vue&logoColor=orange" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Php%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
