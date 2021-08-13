@@ -30,6 +30,8 @@
 - 📫 How to reach me: Email - dgurupravallika@gmail.com 
 - 😄 Pronouns: She/her
 
+<img  src="https://github-readme-stats.vercel.app/api?username=Pravalli21&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
+
 ### Connect with me
 <a href="mailto:dgurupravallika@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/gurupravallikaofficial"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
