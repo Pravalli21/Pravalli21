@@ -35,7 +35,8 @@
 - 📫 How to reach me: Email - dgurupravallika@gmail.com 
 - 😄 Pronouns: She/her
 
-
+                                        YOUTUBER
+  <iframe>https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ</iframe>
 
 
                                                
