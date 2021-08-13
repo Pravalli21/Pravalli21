@@ -14,8 +14,8 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Pravalli21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <a href="https://github.com/Pravalli21/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Pravalli21-profile-views"/></a>
 </p>
 
 
@@ -49,7 +49,6 @@
 ### Connect with me
 <a href="mailto:dgurupravallika@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/gurupravallikaofficial"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
                                                
