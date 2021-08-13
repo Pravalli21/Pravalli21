@@ -30,6 +30,8 @@
 - 📫 How to reach me: Email - dgurupravallika@gmail.com 
 - 😄 Pronouns: She/her
 
+## &#x1f4c8; GitHub Stats
+![](https://komarev.com/ghpvc/?username=Pravalli21)
 <img  src="https://github-readme-stats.vercel.app/api?username=Pravalli21&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
 
 ### Connect with me
