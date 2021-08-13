@@ -37,7 +37,7 @@
 ### Connect with me
 <a href="mailto:dgurupravallika@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/gurupravallikaofficial"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ"><img alt="Youtube" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://youtube.com/channel/UCBuD2bKZTa-y1icGyVizXnQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
                                                
