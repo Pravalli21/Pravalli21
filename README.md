@@ -3,7 +3,7 @@
 🏫 I am a third year Undergrad persuing B.Tech in Computer Science at RMD ENGINEERING COLLEGE.
 🍀 I am currently practising Phthon,C,C++,Java.
 ❤ I love full stack development. Currently I am Mentoring friends who stuck in coding.
-🎯 2021 Goal is to become full stack developer.
+🎯 2021 Goal is to contibute more to open source.
 🎈 Fun Fact: I love singing.
 <br>
 <br>
