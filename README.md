@@ -39,6 +39,10 @@
 - 🌱 I’m currently learning **B.Tech in Computer Science.**
 - 👯 I’m looking to collaborate on **Python Development**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**, **Front End Development**.
+
+<img align='center' src="coder.gif" width="250"> 
+
+
 - 📫 How to reach me: Email - dgurupravallika@gmail.com 
 - 😄 Pronouns: She/her
 
