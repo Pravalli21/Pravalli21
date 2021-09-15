@@ -40,7 +40,7 @@
 - 👯 I’m looking to collaborate on **Python Development**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**, **Front End Development**.
 
-<p align="center"> <img src="https://github.com/khushbooshakya/khushbooshakya/blob/main/code.gif?" alt="codegif" /> </p>
+<p align="center"> <img src="https://github.com/khushbooshakya/khushbooshakya/blob/main/code.gif?" alt="codergif" /> </p>
 
 
 - 📫 How to reach me: Email - dgurupravallika@gmail.com 
