@@ -37,6 +37,10 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 - 🌱 I’m currently learning **B.Tech in Computer Science.**
+
+<img align='center' src="https://tenor.com/bmGMU.gif" width="250"> 
+
+
 - 👯 I’m looking to collaborate on **Python Development**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**, **Front End Development**.
 
