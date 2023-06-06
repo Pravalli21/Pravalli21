@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-%231572B6.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Html%20-%2300D9FF.svg?&style=for-the-badge&logo=html&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Css%20-%2300D9FF.svg?&style=for-the-badge&logo=css&logoColor=white" />&nbsp;&nbsp;&nbsp;
